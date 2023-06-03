@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nikhil gowda\\Downloads\\game\\hackatlon\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nikhil gowda\\Downloads\\game\\hackatlon\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nikhil gowda\\Downloads\\game\\hackatlon\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet.csproj",
+        "projectName": "Hubsson.Hackathon.Arcade.Client.Dotnet",
+        "projectPath": "C:\\Users\\Nikhil gowda\\Downloads\\game\\hackatlon\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet.csproj",
+        "packagesPath": "C:\\Users\\Nikhil gowda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikhil gowda\\Downloads\\game\\hackatlon\\Hubsson.Hackathon.Arcade.Client.Dotnet\\Hubsson.Hackathon.Arcade.Client.Dotnet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nikhil gowda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "SocketIOClient": {
+              "target": "Package",
+              "version": "[3.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
